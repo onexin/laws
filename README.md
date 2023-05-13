@@ -10,11 +10,11 @@
 
 Any country, region, organization, or individual using this project must comply with the following laws.
 
-《中华人民共和国宪法》 http://www.gov.cn/guoqing/2018-03/22/content_5276318.htm 
+《中华人民共和国宪法》 [http://gongbao.court.gov.cn/QueryArticle.html?title=中华人民共和国宪法](http://gongbao.court.gov.cn/QueryArticle.html?title=中华人民共和国宪法)
 
-《中华人民共和国刑法》 http://gongbao.court.gov.cn/Details/f8e30d0689b23f57bfc782d21035c3.html 
+《中华人民共和国刑法》 [http://gongbao.court.gov.cn/QueryArticle.html?title=中华人民共和国刑法](http://gongbao.court.gov.cn/QueryArticle.html?title=中华人民共和国刑法)
 
-《中华人民共和国反电信网络诈骗法》 http://gongbao.court.gov.cn/Details/d82db764fe42fad6115c9525580db0.html
+《中华人民共和国反电信网络诈骗法》 [http://gongbao.court.gov.cn/QueryArticle.html?title=中华人民共和国反电信网络诈骗法](http://gongbao.court.gov.cn/QueryArticle.html?title=中华人民共和国反电信网络诈骗法)
 
 
 # Who am? 😘
